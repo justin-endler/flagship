@@ -18,10 +18,12 @@
     "decimal.js": "^10.0.0",
     "react": "^16.3.2",
     "react-native": "^0.55.4",
+    "react-native-firebase": "^4.3.8",
     "react-native-permissions": "^1.1.1",
     "url-parse": "^1.4.3"
   },
   "devDependencies": {
+    "jest": "^23.5.0",
     "sinon": "^6.0.0"
   },
   "publishConfig": {
